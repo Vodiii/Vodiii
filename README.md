@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E14,45:11161D,100:F5A623&height=180&section=header&text=VODIII&fontSize=54&fontColor=F5A623&fontAlignY=38&desc=TACTICAL%20SOFTWARE%20%2F%20GAME%20DEVELOPMENT&descAlignY=60&descSize=16&descColor=FFFFFF" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E14,45:11161D,100:F5A623&height=180&section=header&text=VODIII&fontSize=54&fontColor=F5A623&fontAlignY=38&desc=BACKEND%20%2F%20GAME%20DEVELOPMENT&descAlignY=60&descSize=16&descColor=FFFFFF" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=750&lines=SYSTEMS+ONLINE;BACKEND+%2F+FULL-STACK+%2F+GAMEDEV;ARCHITECTURE+FIRST.+SECURITY+BY+DEFAULT.;BUILDING+TACTICAL+SOFTWARE+AND+NETWORKED+GAMES." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=750&lines=SYSTEMS+ONLINE;BACKEND+%2F+GAMEDEV;ARCHITECTURE+FIRST.+SECURITY+BY+DEFAULT.;BUILDING+TACTICAL+SOFTWARE+AND+NETWORKED+GAMES." />
 
 <br/>
 
@@ -81,7 +81,7 @@ movement, weapons, ballistics, stamina and replication.
 <table>
 <tr>
 
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 <h3 align="center">BACKEND</h3>
 
@@ -98,29 +98,13 @@ movement, weapons, ballistics, stamina and replication.
 
 </td>
 
-<td width="33%" valign="top">
-
-<h3 align="center">FRONTEND</h3>
-
-<p align="center">
-<img src="https://img.shields.io/badge/React-0A0E14?style=flat-square&logo=react&logoColor=00D9FF" />
-<img src="https://img.shields.io/badge/TypeScript-0A0E14?style=flat-square&logo=typescript&logoColor=00D9FF" />
-<img src="https://img.shields.io/badge/Vite-0A0E14?style=flat-square&logo=vite&logoColor=00D9FF" />
-<img src="https://img.shields.io/badge/TailwindCSS-0A0E14?style=flat-square&logo=tailwindcss&logoColor=00D9FF" />
-<img src="https://img.shields.io/badge/Zustand-0A0E14?style=flat-square&logo=react&logoColor=00D9FF" />
-<img src="https://img.shields.io/badge/TanStack%20Query-0A0E14?style=flat-square&logo=reactquery&logoColor=00D9FF" />
-<img src="https://img.shields.io/badge/React%20Router-0A0E14?style=flat-square&logo=reactrouter&logoColor=00D9FF" />
-</p>
-
-</td>
-
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 <h3 align="center">GAMEDEV</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Unreal%20Engine-0A0E14?style=flat-square&logo=unrealengine&logoColor=4ADE80" />
-<img src="https://img.shields.io/badge/C%2B%2B-0A0E14?style=flat-square&logo=cplusplus&logoColor=4ADE80" />
+<img src="https://img.shields.io/badge/C%2B%2B20-0A0E14?style=flat-square&logo=cplusplus&logoColor=4ADE80" />
 <img src="https://img.shields.io/badge/Blueprints-0A0E14?style=flat-square&logo=unrealengine&logoColor=4ADE80" />
 <img src="https://img.shields.io/badge/UMG-0A0E14?style=flat-square&logo=unrealengine&logoColor=4ADE80" />
 <img src="https://img.shields.io/badge/Networking-0A0E14?style=flat-square&logo=unrealengine&logoColor=4ADE80" />
@@ -139,13 +123,14 @@ movement, weapons, ballistics, stamina and replication.
 ```text
 ┌──────────────────────────────────────────────────────────────────┐
 │                                                                  │
-│  BACKEND          FULL-STACK          GAME DEVELOPMENT           │
+│  BACKEND                         GAME DEVELOPMENT                 │
 │                                                                  │
-│  REST APIs        React + TS          Unreal Engine 5            │
-│  Security         State Management    C++20                      │
-│  Authentication   FSD Architecture    Multiplayer                │
-│  PostgreSQL       Component Systems    Replication                 │
-│  Docker           UI / UX              Ballistics                 │
-│  EF Core          API Integration      Weapon Systems             │
+│  REST APIs                      Unreal Engine 5                  │
+│  Security                       C++20                            │
+│  Authentication                 Multiplayer                      │
+│  PostgreSQL                     Networking                       │
+│  Docker                         Replication                      │
+│  EF Core                        Ballistics                       │
+│  OpenAPI                        Weapon Systems                   │
 │                                                                  │
 └──────────────────────────────────────────────────────────────────┘
