@@ -14,9 +14,7 @@
 
 <br/>
 
----
-
-## `// CURRENT OPERATIONS`
+// CURRENT OPERATIONS
 
 <table>
 <tr>
@@ -74,16 +72,14 @@ movement, weapons, ballistics, stamina and replication.
 </tr>
 </table>
 
----
-
-## `// TACTICAL FEED`
+// TACTICAL FEED
 
 <div align="center">
 
 <img
-  src="./vodiii_lighthouse_sniper.gif"
-  alt="VODIII Lighthouse Sniper Feed"
-  width="1200"
+src="./vodiii_lighthouse_sniper.gif"
+alt="VODIII Lighthouse Sniper Feed"
+width="1200"
 />
 
 <br/><br/>
@@ -102,9 +98,7 @@ A cinematic tactical feed inspired by modern military shooters and the Lighthous
 
 <br/>
 
----
-
-## `// LOADOUT`
+// LOADOUT
 
 <table>
 <tr>
@@ -144,9 +138,7 @@ A cinematic tactical feed inspired by modern military shooters and the Lighthous
 </tr>
 </table>
 
----
-
-## `// SPECIALIZATION`
+// SPECIALIZATION
 
 <table>
 <tr>
@@ -220,49 +212,41 @@ A cinematic tactical feed inspired by modern military shooters and the Lighthous
 
 </div>
 
----
-
-## `// DARKSIDE // COMBAT SYSTEMS`
+// DARKSIDE // COMBAT SYSTEMS
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-**MOVEMENT**
+MOVEMENT
 
-```text
 ✓ Sprint
 ✓ Walk / Slow Walk
 ✓ Crouch
 ✓ Lean
 ✓ Stamina
 ✓ Breath Holding
-```
 
 </td>
 
 <td width="50%" valign="top">
 
-**WEAPON SYSTEM**
+WEAPON SYSTEM
 
-```text
 ✓ Weapon Framework
 ✓ Ballistic Line Traces
 ✓ Recoil
 ✓ Health / Damage
 ✓ FPP Animation
 ✓ Replication
-```
 
 </td>
 
 </tr>
 </table>
 
----
-
-## `// OPERATING PRINCIPLES`
+// OPERATING PRINCIPLES
 
 <div align="center">
 
@@ -278,11 +262,9 @@ Build systems that are predictable, scalable and difficult to break.
 
 </div>
 
----
-
 <div align="center">
 
-### `STATUS // ACTIVE DEVELOPMENT`
+STATUS // ACTIVE DEVELOPMENT
 
 <img src="https://komarev.com/ghpvc/?username=Vodiii&style=flat-square&color=F5A623&label=PROFILE+VIEWS" />
 
