@@ -81,21 +81,21 @@ movement, weapons, ballistics, stamina and replication.
 <div align="center">
 
 <img
-  src="./vodiii_tactical_shooter.gif"
-  alt="VODIII Tactical Shooter Feed"
+  src="./vodiii_lighthouse_sniper.gif"
+  alt="VODIII Lighthouse Sniper Feed"
   width="1200"
 />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/LIVE%20COMBAT%20FEED-TACTICAL%20FPS-00D9FF?style=for-the-badge&labelColor=0A0E14&color=00D9FF" />
-<img src="https://img.shields.io/badge/ENVIRONMENT-URBAN-F5A623?style=for-the-badge&labelColor=0A0E14&color=F5A623" />
-<img src="https://img.shields.io/badge/OPS-LIVE-4ADE80?style=for-the-badge&labelColor=0A0E14&color=4ADE80" />
+<img src="https://img.shields.io/badge/TACTICAL%20FEED-LIGHTHOUSE-00D9FF?style=for-the-badge&labelColor=0A0E14&color=00D9FF" />
+<img src="https://img.shields.io/badge/STATUS-OBSERVING-4ADE80?style=for-the-badge&labelColor=0A0E14&color=4ADE80" />
+<img src="https://img.shields.io/badge/ENV-MOUNTAIN%20%2F%20COAST-F5A623?style=for-the-badge&labelColor=0A0E14&color=F5A623" />
 
 <br/>
 
 <sub>
-Visual direction inspired by tactical FPS interfaces, urban combat environments and in-game HUD systems.
+A cinematic tactical feed inspired by modern military shooters and the Lighthouse environment.
 </sub>
 
 </div>
@@ -114,7 +114,6 @@ Visual direction inspired by tactical FPS interfaces, urban combat environments 
 <h3 align="center">BACKEND</h3>
 
 <p align="center">
-
 <img src="https://img.shields.io/badge/C%23-0A0E14?style=flat-square&logo=csharp&logoColor=F5A623" />
 <img src="https://img.shields.io/badge/.NET-0A0E14?style=flat-square&logo=dotnet&logoColor=F5A623" />
 <img src="https://img.shields.io/badge/ASP.NET-0A0E14?style=flat-square&logo=dotnet&logoColor=F5A623" />
@@ -123,7 +122,6 @@ Visual direction inspired by tactical FPS interfaces, urban combat environments 
 <img src="https://img.shields.io/badge/JWT-0A0E14?style=flat-square&logo=jsonwebtokens&logoColor=F5A623" />
 <img src="https://img.shields.io/badge/Docker-0A0E14?style=flat-square&logo=docker&logoColor=F5A623" />
 <img src="https://img.shields.io/badge/OpenAPI-0A0E14?style=flat-square&logo=swagger&logoColor=F5A623" />
-
 </p>
 
 </td>
@@ -133,14 +131,12 @@ Visual direction inspired by tactical FPS interfaces, urban combat environments 
 <h3 align="center">GAMEDEV</h3>
 
 <p align="center">
-
 <img src="https://img.shields.io/badge/Unreal%20Engine-0A0E14?style=flat-square&logo=unrealengine&logoColor=4ADE80" />
 <img src="https://img.shields.io/badge/C%2B%2B20-0A0E14?style=flat-square&logo=cplusplus&logoColor=4ADE80" />
 <img src="https://img.shields.io/badge/Blueprints-0A0E14?style=flat-square&logo=unrealengine&logoColor=4ADE80" />
 <img src="https://img.shields.io/badge/UMG-0A0E14?style=flat-square&logo=unrealengine&logoColor=4ADE80" />
 <img src="https://img.shields.io/badge/Networking-0A0E14?style=flat-square&logo=unrealengine&logoColor=4ADE80" />
 <img src="https://img.shields.io/badge/Replication-0A0E14?style=flat-square&logo=unrealengine&logoColor=4ADE80" />
-
 </p>
 
 </td>
@@ -163,8 +159,8 @@ Visual direction inspired by tactical FPS interfaces, urban combat environments 
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/API%20DESIGN-11161D?style=flat-square&logoColor=F5A623" />
-<img src="https://img.shields.io/badge/SECURITY-11161D?style=flat-square&logoColor=F5A623" />
+<img src="https://img.shields.io/badge/API%20DESIGN-11161D?style=flat-square" />
+<img src="https://img.shields.io/badge/SECURITY-11161D?style=flat-square" />
 <img src="https://img.shields.io/badge/DATABASES-11161D?style=flat-square&logo=postgresql&logoColor=F5A623" />
 <img src="https://img.shields.io/badge/DOCKER-11161D?style=flat-square&logo=docker&logoColor=F5A623" />
 <img src="https://img.shields.io/badge/OPENAPI-11161D?style=flat-square&logo=swagger&logoColor=F5A623" />
@@ -242,3 +238,62 @@ Visual direction inspired by tactical FPS interfaces, urban combat environments 
 ✓ Lean
 ✓ Stamina
 ✓ Breath Holding
+```
+
+</td>
+
+<td width="50%" valign="top">
+
+**WEAPON SYSTEM**
+
+```text
+✓ Weapon Framework
+✓ Ballistic Line Traces
+✓ Recoil
+✓ Health / Damage
+✓ FPP Animation
+✓ Replication
+```
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## `// OPERATING PRINCIPLES`
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/ARCHITECTURE-FIRST-F5A623?style=for-the-badge&labelColor=0A0E14&color=F5A623" />
+<img src="https://img.shields.io/badge/SECURITY-BY%20DEFAULT-4ADE80?style=for-the-badge&labelColor=0A0E14&color=4ADE80" />
+<img src="https://img.shields.io/badge/PERFORMANCE-INTENTIONAL-00D9FF?style=for-the-badge&labelColor=0A0E14&color=00D9FF" />
+
+<br/><br/>
+
+<sub>
+Build systems that are predictable, scalable and difficult to break.
+</sub>
+
+</div>
+
+---
+
+<div align="center">
+
+### `STATUS // ACTIVE DEVELOPMENT`
+
+<img src="https://komarev.com/ghpvc/?username=Vodiii&style=flat-square&color=F5A623&label=PROFILE+VIEWS" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/VODIII-ONLINE-0A0E14?style=for-the-badge&labelColor=11161D&color=F5A623" />
+
+<br/><br/>
+
+<sub>
+Architecture first. Security by default.
+</sub>
+
+</div>
