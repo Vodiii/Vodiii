@@ -1,10 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E14,45:11161D,100:F5A623&height=180&section=header&text=VODIII&fontSize=54&fontColor=F5A623&fontAlignY=38&desc=BACKEND%20%2F%20GAME%20DEVELOPMENT&descAlignY=60&descSize=16&descColor=FFFFFF" />
+<img
+  src="./vodiii_terminal_boot.gif"
+  alt="VODIII Tactical System Boot"
+  width="1200"
+/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=750&lines=SYSTEMS+ONLINE;BACKEND+%2F+GAMEDEV;ARCHITECTURE+FIRST.+SECURITY+BY+DEFAULT.;BUILDING+TACTICAL+SOFTWARE+AND+NETWORKED+GAMES." />
+<br/><br/>
 
-<br/>
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E14,45:11161D,100:F5A623&height=180&section=header&text=VODIII&fontSize=54&fontColor=F5A623&fontAlignY=38&desc=BACKEND%20%2F%20GAME%20DEVELOPMENT&descAlignY=60&descSize=16&descColor=FFFFFF"
+/>
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=750&lines=SYSTEMS+ONLINE;BACKEND+%2F+GAMEDEV;ARCHITECTURE+FIRST.+SECURITY+BY+DEFAULT.;BUILDING+TACTICAL+SOFTWARE+AND+NETWORKED+GAMES."
+/>
+
+<br/><br/>
 
 <img src="https://img.shields.io/badge/STATUS-SYSTEMS%20ONLINE-4ADE80?style=for-the-badge&labelColor=0A0E14&color=4ADE80" />
 <img src="https://img.shields.io/badge/OPS-BUILDING-F5A623?style=for-the-badge&labelColor=0A0E14&color=F5A623" />
@@ -86,6 +98,7 @@ movement, weapons, ballistics, stamina and replication.
 <h3 align="center">BACKEND</h3>
 
 <p align="center">
+
 <img src="https://img.shields.io/badge/C%23-0A0E14?style=flat-square&logo=csharp&logoColor=F5A623" />
 <img src="https://img.shields.io/badge/.NET-0A0E14?style=flat-square&logo=dotnet&logoColor=F5A623" />
 <img src="https://img.shields.io/badge/ASP.NET-0A0E14?style=flat-square&logo=dotnet&logoColor=F5A623" />
@@ -94,6 +107,7 @@ movement, weapons, ballistics, stamina and replication.
 <img src="https://img.shields.io/badge/JWT-0A0E14?style=flat-square&logo=jsonwebtokens&logoColor=F5A623" />
 <img src="https://img.shields.io/badge/Docker-0A0E14?style=flat-square&logo=docker&logoColor=F5A623" />
 <img src="https://img.shields.io/badge/OpenAPI-0A0E14?style=flat-square&logo=swagger&logoColor=F5A623" />
+
 </p>
 
 </td>
@@ -103,12 +117,14 @@ movement, weapons, ballistics, stamina and replication.
 <h3 align="center">GAMEDEV</h3>
 
 <p align="center">
+
 <img src="https://img.shields.io/badge/Unreal%20Engine-0A0E14?style=flat-square&logo=unrealengine&logoColor=4ADE80" />
 <img src="https://img.shields.io/badge/C%2B%2B20-0A0E14?style=flat-square&logo=cplusplus&logoColor=4ADE80" />
 <img src="https://img.shields.io/badge/Blueprints-0A0E14?style=flat-square&logo=unrealengine&logoColor=4ADE80" />
 <img src="https://img.shields.io/badge/UMG-0A0E14?style=flat-square&logo=unrealengine&logoColor=4ADE80" />
 <img src="https://img.shields.io/badge/Networking-0A0E14?style=flat-square&logo=unrealengine&logoColor=4ADE80" />
 <img src="https://img.shields.io/badge/Replication-0A0E14?style=flat-square&logo=unrealengine&logoColor=4ADE80" />
+
 </p>
 
 </td>
