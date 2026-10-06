@@ -76,6 +76,34 @@ movement, weapons, ballistics, stamina and replication.
 
 ---
 
+## `// TACTICAL FEED`
+
+<div align="center">
+
+<img
+  src="./vodiii_tactical_shooter.gif"
+  alt="VODIII Tactical Shooter Feed"
+  width="1200"
+/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/LIVE%20COMBAT%20FEED-TACTICAL%20FPS-00D9FF?style=for-the-badge&labelColor=0A0E14&color=00D9FF" />
+<img src="https://img.shields.io/badge/ENVIRONMENT-URBAN-F5A623?style=for-the-badge&labelColor=0A0E14&color=F5A623" />
+<img src="https://img.shields.io/badge/OPS-LIVE-4ADE80?style=for-the-badge&labelColor=0A0E14&color=4ADE80" />
+
+<br/>
+
+<sub>
+Visual direction inspired by tactical FPS interfaces, urban combat environments and in-game HUD systems.
+</sub>
+
+</div>
+
+<br/>
+
+---
+
 ## `// LOADOUT`
 
 <table>
@@ -86,6 +114,7 @@ movement, weapons, ballistics, stamina and replication.
 <h3 align="center">BACKEND</h3>
 
 <p align="center">
+
 <img src="https://img.shields.io/badge/C%23-0A0E14?style=flat-square&logo=csharp&logoColor=F5A623" />
 <img src="https://img.shields.io/badge/.NET-0A0E14?style=flat-square&logo=dotnet&logoColor=F5A623" />
 <img src="https://img.shields.io/badge/ASP.NET-0A0E14?style=flat-square&logo=dotnet&logoColor=F5A623" />
@@ -94,6 +123,7 @@ movement, weapons, ballistics, stamina and replication.
 <img src="https://img.shields.io/badge/JWT-0A0E14?style=flat-square&logo=jsonwebtokens&logoColor=F5A623" />
 <img src="https://img.shields.io/badge/Docker-0A0E14?style=flat-square&logo=docker&logoColor=F5A623" />
 <img src="https://img.shields.io/badge/OpenAPI-0A0E14?style=flat-square&logo=swagger&logoColor=F5A623" />
+
 </p>
 
 </td>
@@ -103,12 +133,14 @@ movement, weapons, ballistics, stamina and replication.
 <h3 align="center">GAMEDEV</h3>
 
 <p align="center">
+
 <img src="https://img.shields.io/badge/Unreal%20Engine-0A0E14?style=flat-square&logo=unrealengine&logoColor=4ADE80" />
 <img src="https://img.shields.io/badge/C%2B%2B20-0A0E14?style=flat-square&logo=cplusplus&logoColor=4ADE80" />
 <img src="https://img.shields.io/badge/Blueprints-0A0E14?style=flat-square&logo=unrealengine&logoColor=4ADE80" />
 <img src="https://img.shields.io/badge/UMG-0A0E14?style=flat-square&logo=unrealengine&logoColor=4ADE80" />
 <img src="https://img.shields.io/badge/Networking-0A0E14?style=flat-square&logo=unrealengine&logoColor=4ADE80" />
 <img src="https://img.shields.io/badge/Replication-0A0E14?style=flat-square&logo=unrealengine&logoColor=4ADE80" />
+
 </p>
 
 </td>
@@ -193,3 +225,20 @@ movement, weapons, ballistics, stamina and replication.
 </div>
 
 ---
+
+## `// DARKSIDE // COMBAT SYSTEMS`
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+**MOVEMENT**
+
+```text
+✓ Sprint
+✓ Walk / Slow Walk
+✓ Crouch
+✓ Lean
+✓ Stamina
+✓ Breath Holding
