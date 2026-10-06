@@ -120,17 +120,76 @@ movement, weapons, ballistics, stamina and replication.
 
 ## `// SPECIALIZATION`
 
-```text
-┌──────────────────────────────────────────────────────────────────┐
-│                                                                  │
-│  BACKEND                         GAME DEVELOPMENT                 │
-│                                                                  │
-│  REST APIs                      Unreal Engine 5                  │
-│  Security                       C++20                            │
-│  Authentication                 Multiplayer                      │
-│  PostgreSQL                     Networking                       │
-│  Docker                         Replication                      │
-│  EF Core                        Ballistics                       │
-│  OpenAPI                        Weapon Systems                   │
-│                                                                  │
-└──────────────────────────────────────────────────────────────────┘
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/01-BACKEND%20SYSTEMS-F5A623?style=for-the-badge&labelColor=0A0E14&color=F5A623" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/API%20DESIGN-11161D?style=flat-square&logoColor=F5A623" />
+<img src="https://img.shields.io/badge/SECURITY-11161D?style=flat-square&logoColor=F5A623" />
+<img src="https://img.shields.io/badge/DATABASES-11161D?style=flat-square&logo=postgresql&logoColor=F5A623" />
+<img src="https://img.shields.io/badge/DOCKER-11161D?style=flat-square&logo=docker&logoColor=F5A623" />
+<img src="https://img.shields.io/badge/OPENAPI-11161D?style=flat-square&logo=swagger&logoColor=F5A623" />
+
+<br/><br/>
+
+<b>REST APIs</b><br/>
+<b>Authentication</b><br/>
+<b>Authorization</b><br/>
+<b>Security</b><br/>
+<b>PostgreSQL</b><br/>
+<b>EF Core</b><br/>
+<b>Docker</b><br/>
+<b>OpenAPI</b>
+
+</div>
+
+</td>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/02-GAME%20SYSTEMS-00D9FF?style=for-the-badge&labelColor=0A0E14&color=00D9FF" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/UNREAL%20ENGINE-11161D?style=flat-square&logo=unrealengine&logoColor=4ADE80" />
+<img src="https://img.shields.io/badge/C%2B%2B20-11161D?style=flat-square&logo=cplusplus&logoColor=4ADE80" />
+<img src="https://img.shields.io/badge/NETWORKING-11161D?style=flat-square&logo=unrealengine&logoColor=4ADE80" />
+<img src="https://img.shields.io/badge/REPLICATION-11161D?style=flat-square&logo=unrealengine&logoColor=4ADE80" />
+<img src="https://img.shields.io/badge/BALLISTICS-11161D?style=flat-square&logo=unrealengine&logoColor=4ADE80" />
+
+<br/><br/>
+
+<b>Unreal Engine 5</b><br/>
+<b>C++20</b><br/>
+<b>Multiplayer</b><br/>
+<b>Networking</b><br/>
+<b>Replication</b><br/>
+<b>Ballistics</b><br/>
+<b>Weapon Systems</b><br/>
+<b>Gameplay Systems</b>
+
+</div>
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/FOCUS-BUILD%20SYSTEMS%20THAT%20SURVIVE%20SCALE-0A0E14?style=for-the-badge&labelColor=11161D&color=F5A623" />
+
+</div>
+
+---
